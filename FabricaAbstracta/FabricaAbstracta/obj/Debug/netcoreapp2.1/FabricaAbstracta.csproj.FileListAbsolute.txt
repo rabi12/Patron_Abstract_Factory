@@ -1,0 +1,10 @@
+C:\Users\rabi.aranda\source\repos\FabricaAbstracta\FabricaAbstracta\bin\Debug\netcoreapp2.1\FabricaAbstracta.deps.json
+C:\Users\rabi.aranda\source\repos\FabricaAbstracta\FabricaAbstracta\bin\Debug\netcoreapp2.1\FabricaAbstracta.runtimeconfig.json
+C:\Users\rabi.aranda\source\repos\FabricaAbstracta\FabricaAbstracta\bin\Debug\netcoreapp2.1\FabricaAbstracta.runtimeconfig.dev.json
+C:\Users\rabi.aranda\source\repos\FabricaAbstracta\FabricaAbstracta\bin\Debug\netcoreapp2.1\FabricaAbstracta.dll
+C:\Users\rabi.aranda\source\repos\FabricaAbstracta\FabricaAbstracta\bin\Debug\netcoreapp2.1\FabricaAbstracta.pdb
+C:\Users\rabi.aranda\source\repos\FabricaAbstracta\FabricaAbstracta\obj\Debug\netcoreapp2.1\FabricaAbstracta.csproj.CoreCompileInputs.cache
+C:\Users\rabi.aranda\source\repos\FabricaAbstracta\FabricaAbstracta\obj\Debug\netcoreapp2.1\FabricaAbstracta.AssemblyInfoInputs.cache
+C:\Users\rabi.aranda\source\repos\FabricaAbstracta\FabricaAbstracta\obj\Debug\netcoreapp2.1\FabricaAbstracta.AssemblyInfo.cs
+C:\Users\rabi.aranda\source\repos\FabricaAbstracta\FabricaAbstracta\obj\Debug\netcoreapp2.1\FabricaAbstracta.dll
+C:\Users\rabi.aranda\source\repos\FabricaAbstracta\FabricaAbstracta\obj\Debug\netcoreapp2.1\FabricaAbstracta.pdb
